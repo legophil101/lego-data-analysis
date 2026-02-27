@@ -91,6 +91,7 @@ lego-data-analysis/
    python -m notebook
    ```
 4. **Open the analysis:**
+   
    `notebooks/lego_data_analysis.ipynb`
 
 ---
