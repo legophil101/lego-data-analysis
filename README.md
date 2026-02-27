@@ -95,19 +95,6 @@ lego-data-analysis/
 
 ---
 
-## 📈 Visual Assets (Optional)
-
-Embed charts and schema visuals in your notebook or README for impact:
-
-| Asset                           | Purpose                             |
-| ------------------------------- | ----------------------------------- |
-| `assets/bricks.jpg`             | Illustrates LEGO product evolution  |
-| `assets/lego_sets.png`          | Visualizes sets released per year   |
-| `assets/lego_themes.png`        | Highlights theme diversification    |
-| `assets/rebrickable_schema.png` | Shows relational database structure |
-
----
-
 ## 📚 Data Source
 
 Analysis based on the **Rebrickable LEGO Database**, using relational tables for colors, themes, and sets.
